@@ -1,0 +1,28 @@
+{
+  "name": "try-beachball",
+  "entries": [
+    {
+      "date": "Sun, 01 Aug 2021 23:22:04 GMT",
+      "tag": "try-beachball_v1.0.1",
+      "version": "1.0.1",
+      "comments": {
+        "patch": [
+          {
+            "author": "7598058+BBlackwo@users.noreply.github.com",
+            "package": "try-beachball",
+            "comment": "Add world",
+            "commit": "77e0df16ec7a81966122b3a6dbb136d01288430a"
+          }
+        ],
+        "none": [
+          {
+            "author": "7598058+BBlackwo@users.noreply.github.com",
+            "package": "try-beachball",
+            "comment": "Add beachball",
+            "commit": "77e0df16ec7a81966122b3a6dbb136d01288430a"
+          }
+        ]
+      }
+    }
+  ]
+}
